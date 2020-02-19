@@ -1,0 +1,1580 @@
+﻿Log file open, 02/19/20 10:39:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE4Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124520
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:698][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.19-09.39.22:698][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.19-09.39.22:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:699][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:701][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.19-09.39.22:701][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.19-09.39.22:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.19-09.39.22:703][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.19-09.39.22:703][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.19-09.39.22:703][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.19-09.39.22:707][  0]LogHAL: Display: Platform has ~ 16 GB [17059516416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.19-09.39.22:707][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.19-09.39.22:707][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.19-09.39.22:707][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.19-09.39.22:708][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.19-09.39.22:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Scalability.ini]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.19-09.39.22:710][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Project/UE4Project/Saved/Config/Windows/Engine.ini]
+[2020.02.19-09.39.22:710][  0]LogInit: Computer: DESKTOP-ADGCM6M
+[2020.02.19-09.39.22:710][  0]LogInit: User: Sergi
+[2020.02.19-09.39.22:710][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.02.19-09.39.22:710][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.19-09.39.22:711][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.19-09.39.22:711][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.19-09.39.22:711][  0]LogMemory: Process Physical Memory: 104.26 MB used, 104.26 MB peak
+[2020.02.19-09.39.22:711][  0]LogMemory: Process Virtual Memory: 99.62 MB used, 99.62 MB peak
+[2020.02.19-09.39.22:711][  0]LogMemory: Physical Memory: 4863.32 MB used,  11405.90 MB free, 16269.22 MB total
+[2020.02.19-09.39.22:711][  0]LogMemory: Virtual Memory: 5117.09 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.02.19-09.39.22:713][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.19-09.39.22:730][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.02.19-09.39.22:730][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.02.19-09.39.22:924][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.19-09.39.22:953][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.19-09.39.22:953][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.19-09.39.23:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.19-09.39.23:172][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.19-09.39.23:173][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.19-09.39.23:173][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.19-09.39.23:233][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2020.02.19-09.39.23:233][  0]LogD3D11RHI:       4055/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.19-09.39.23:243][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.02.19-09.39.23:243][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.19-09.39.23:245][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.19-09.39.23:245][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.19-09.39.23:245][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.19-09.39.23:278][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.19-09.39.23:278][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2020.02.19-09.39.23:278][  0]LogWindows: EnumDisplayDevices:
+[2020.02.19-09.39.23:279][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.02.19-09.39.23:279][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.02.19-09.39.23:279][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.02.19-09.39.23:279][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.19-09.39.23:279][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2020.02.19-09.39.23:280][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.19-09.39.23:280][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.19-09.39.23:280][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.02.19-09.39.23:317][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.19-09.39.23:318][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.19-09.39.23:336][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.19-09.39.23:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.19-09.39.23:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.19-09.39.23:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.19-09.39.23:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.19-09.39.23:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.19-09.39.23:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.19-09.39.23:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.19-09.39.23:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.19-09.39.23:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.19-09.39.23:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.19-09.39.23:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.19-09.39.23:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.19-09.39.23:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.19-09.39.23:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.19-09.39.23:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.19-09.39.23:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.19-09.39.23:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.19-09.39.23:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.19-09.39.23:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.19-09.39.23:892][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.19-09.39.23:916][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../Unreal Project/UE4Project/Intermediate/Shaders/WorkingDirectory/7900/).
+[2020.02.19-09.39.23:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sergi/AppData/Local/Temp/UnrealShaderWorkingDir/7545221C4B9A4E410DC0D3A421F6F5A0/'.
+[2020.02.19-09.39.23:917][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.19-09.39.23:917][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.19-09.39.23:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.19-09.39.24:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.19-09.39.24:748][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Sergi/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.19-09.39.24:748][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sergi/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.19-09.39.24:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Project/UE4Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.19-09.39.24:749][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.19-09.39.24:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Project/UE4Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.19-09.39.24:749][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.19-09.39.24:759][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.19-09.39.24:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.19-09.39.24:759][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.19-09.39.24:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.19-09.39.24:760][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.19-09.39.24:760][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.19-09.39.24:789][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.19-09.39.24:791][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.19-09.39.24:792][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.19-09.39.24:842][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.02.19-09.39.25:195][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.19-09.39.25:363][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.19-09.39.25:363][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.19-09.39.25:363][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.19-09.39.25:363][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.19-09.39.25:363][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.19-09.39.25:376][  0]LogNetVersion: UE4Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1436148483)
+[2020.02.19-09.39.26:441][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.051692 seconds
+[2020.02.19-09.39.26:450][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.19-09.39.26:450][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.19-09.39.26:450][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.19-09.39.26:878][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.19-09.39.26:881][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.19-09.39.26:936][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.26:936][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.26:937][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.26:938][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.26:939][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.27:022][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.19-09.39.27:034][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.19-09.39.27:034][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.19-09.39.27:121][  0]LogOcInput: OculusInput pre-init called
+[2020.02.19-09.39.27:130][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.19-09.39.27:130][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.19-09.39.27:200][  0]LogEngine: Initializing Engine...
+[2020.02.19-09.39.27:201][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.19-09.39.27:202][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.19-09.39.27:553][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.19-09.39.27:559][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-09.39.27:577][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-09.39.27:577][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-09.39.27:578][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-09.39.27:578][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-09.39.27:611][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-09.39.27:736][  0]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.39.27:740][  0]LogInit: FAudioDevice initialized.
+[2020.02.19-09.39.27:740][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.19-09.39.27:821][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Sergi/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.19-09.39.27:830][  0]LogInit: Texture streaming: Enabled
+[2020.02.19-09.39.27:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.19-09.39.27:838][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.19-09.39.27:839][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.19-09.39.27:893][  0]LogInit: Transaction tracking system initialized
+[2020.02.19-09.39.27:902][  0]BlueprintLog: New page: Editor Load
+[2020.02.19-09.39.27:932][  0]LocalizationService: Localization service is disabled
+[2020.02.19-09.39.28:304][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.19-09.39.28:304][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.19-09.39.28:385][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UE4Project/Content/' took 0.05s
+[2020.02.19-09.39.28:958][  0]SourceControl: Source control is disabled
+[2020.02.19-09.39.28:958][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-09.39.28:964][  0]LightingResults: New page: Lighting Build
+[2020.02.19-09.39.28:965][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.39.28:965][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.39.28:965][  0]MapCheck: New page: Map Check
+[2020.02.19-09.39.28:965][  0]LightingResults: New page: Lighting Build
+[2020.02.19-09.39.28:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.19-09.39.30:201][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.30:201][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:421][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:421][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:433][  0]LogLinker: Warning: Failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:433][  0]LogLinker: Warning: Failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:433][  0]LogLinker: Warning: Failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:433][  0]LogLinker: Warning: Failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:554][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:554][  0]LoadErrors: Failed to load /Game/MyAssets/DEV-Testing_BuiltData.DEV-Testing_BuiltData Referenced by PersistentLevel
+[2020.02.19-09.39.31:554][  0]LogLinker: Warning: While loading '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap' failed to load '/Game/MyAssets/DEV-Testing_BuiltData': Can't find file.
+[2020.02.19-09.39.31:554][  0]LoadErrors: Failed to load /Game/MyAssets/DEV-Testing_BuiltData.DEV-Testing_BuiltData Referenced by PersistentLevel
+[2020.02.19-09.39.34:355][  0]LogAIModule: Creating AISystem for world DEV-Testing
+[2020.02.19-09.39.35:473][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-09.39.35:531][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.02.19-09.39.35:531][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-09.39.35:532][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2020.02.19-09.39.35:532][  0]LogFileHelpers: Loading map 'DEV-Testing' took 6.573
+[2020.02.19-09.39.35:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.39.35:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.39.35:738][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.39.35:747][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.39.36:057][  0]LogCollectionManager: Loaded 0 collections in 0.002018 seconds
+[2020.02.19-09.39.36:091][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UE4Project/Saved/Collections/' took 0.00s
+[2020.02.19-09.39.36:091][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UE4Project/Content/Developers/Sergi/Collections/' took 0.00s
+[2020.02.19-09.39.36:091][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/UE4Project/Content/Collections/' took 0.00s
+[2020.02.19-09.39.36:091][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 3017 classes and 720 folders.
+[2020.02.19-09.39.36:099][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.19-09.39.36:561][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.19-09.39.36:600][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.19-09.39.36:604][  0]LogSlate: Took 0.000506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.19-09.39.36:619][  0]LogSlate: Took 0.007513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.19-09.39.36:812][  0]LogRenderer: Reallocating scene render targets to support 928x428 Format 10 NumSamples 1 (Frame:1).
+[2020.02.19-09.39.37:176][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.19-09.39.37:176][  0]LogLoad: (Engine Initialization) Total time: 16.12 seconds
+[2020.02.19-09.39.37:176][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.19-09.39.37:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.19-09.39.37:393][  0]LogRenderer: Reallocating scene render targets to support 928x444 Format 10 NumSamples 1 (Frame:2).
+[2020.02.19-09.39.37:393][  0]LogSlate: Took 0.012702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.19-09.39.38:215][ 11]LogAssetRegistry: Asset discovery search completed in 13.3741 seconds
+[2020.02.19-09.39.38:223][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.02.19-09.39.39:197][ 14]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-09.39.39:201][ 14]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-09.42.02:222][592]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.19-09.42.02:277][592]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Terrain/widget_MenuPause.widget_MenuPause
+[2020.02.19-09.42.02:562][592]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.19-09.42.03:810][592]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.19-09.42.39:141][352]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-09.42.39:168][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.42.39:168][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-09.42.39:168][352]PIE: New page: PIE session: DEV-Testing (Feb 19, 2020, 11:42:39 AM)
+[2020.02.19-09.42.39:169][352]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.19-09.42.39:171][352]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.19-09.42.39:171][352]LogPlayLevel: Creating play world package: /Game/MyAssets/UEDPIE_0_DEV-Testing
+[2020.02.19-09.42.39:330][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158993s)
+[2020.02.19-09.42.39:331][352]LogAIModule: Creating AISystem for world DEV-Testing
+[2020.02.19-09.42.39:331][352]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2020.02.19-09.42.39:332][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyAssets/DEV-Testing.DEV-Testing to /Game/MyAssets/UEDPIE_0_DEV-Testing.DEV-Testing (0.160972s)
+[2020.02.19-09.42.39:393][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-09.42.39:395][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-09.42.39:395][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-09.42.39:395][352]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-09.42.39:396][352]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: Channel Order:
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-09.42.39:405][352]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-09.42.39:422][352]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.42.39:424][352]LogInit: FAudioDevice initialized.
+[2020.02.19-09.42.39:484][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.42.39:492][352]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-09.42.39:511][352]LogWorld: Bringing World /Game/MyAssets/UEDPIE_0_DEV-Testing.DEV-Testing up for play (max tick rate 60) at 2020.02.19-10.42.39
+[2020.02.19-09.42.39:512][352]LogWorld: Bringing up level for play took: 0.019900
+[2020.02.19-09.42.39:513][352]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.19-09.42.39:517][352]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.19-09.42.39:524][352]PIE: Play in editor start time for /Game/MyAssets/UEDPIE_0_DEV-Testing 0.187
+[2020.02.19-09.42.39:525][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.42.39:957][354]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2020.02.19-09.42.45:386][478]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-09.42.45:424][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.42.45:424][478]LogWorld: BeginTearingDown for /Game/MyAssets/UEDPIE_0_DEV-Testing
+[2020.02.19-09.42.45:436][478]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-09.42.45:454][478]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-09.42.45:455][478]LogWorld: UWorld::CleanupWorld for DEV-Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.42.45:460][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.42.45:468][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-09.42.45:468][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.42.45:477][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.42.45:522][478]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-09.42.45:572][478]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.02.19-09.42.45:692][479]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.19-09.42.48:195][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-09.42.48:897][527]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.19-09.43.38:473][361]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-09.43.38:950][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.02.19-09.43.40:921][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-09.43.40:977][394]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager5601A1114C398E328C10DA934CFA16C0.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-09.43.40:999][394]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-09.43.40:999][394]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-09.43.54:229][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-09.43.54:260][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.43.54:260][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-09.43.54:261][628]PIE: New page: PIE session: DEV-Testing (Feb 19, 2020, 11:43:54 AM)
+[2020.02.19-09.43.54:261][628]LogPlayLevel: Creating play world package: /Game/MyAssets/UEDPIE_0_DEV-Testing
+[2020.02.19-09.43.54:403][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141650s)
+[2020.02.19-09.43.54:404][628]LogAIModule: Creating AISystem for world DEV-Testing
+[2020.02.19-09.43.54:405][628]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2020.02.19-09.43.54:405][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyAssets/DEV-Testing.DEV-Testing to /Game/MyAssets/UEDPIE_0_DEV-Testing.DEV-Testing (0.143519s)
+[2020.02.19-09.43.54:446][628]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-09.43.54:449][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-09.43.54:449][628]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-09.43.54:449][628]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: Channel Order:
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-09.43.54:459][628]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-09.43.54:477][628]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.43.54:479][628]LogInit: FAudioDevice initialized.
+[2020.02.19-09.43.54:535][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.43.54:535][628]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-09.43.54:554][628]LogWorld: Bringing World /Game/MyAssets/UEDPIE_0_DEV-Testing.DEV-Testing up for play (max tick rate 60) at 2020.02.19-10.43.54
+[2020.02.19-09.43.54:554][628]LogWorld: Bringing up level for play took: 0.019387
+[2020.02.19-09.43.54:555][628]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.19-09.43.54:563][628]PIE: Play in editor start time for /Game/MyAssets/UEDPIE_0_DEV-Testing 1.227
+[2020.02.19-09.43.54:564][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.44.00:013][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-09.44.00:024][757]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-09.44.00:044][757]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-09.44.00:045][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.44.00:045][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.44.00:045][757]LogWorld: BeginTearingDown for /Game/MyAssets/UEDPIE_0_DEV-Testing
+[2020.02.19-09.44.00:074][757]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-09.44.00:094][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-09.44.00:095][757]LogWorld: UWorld::CleanupWorld for DEV-Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.44.00:099][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.44.00:129][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-09.44.00:130][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel' has LevelScriptBlueprint '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing' with GeneratedClass '/Game/MyAssets/DEV-Testing.DEV-Testing_C' with ClassGeneratedBy '/Game/MyAssets/DEV-Testing.DEV-Testing:PersistentLevel.DEV-Testing'
+[2020.02.19-09.44.00:137][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.44.00:177][757]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-09.44.00:190][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.02.19-09.44.00:210][758]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.19-09.44.03:994][790]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-09.44.04:026][790]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/Landscape.Landscape
+[2020.02.19-09.44.04:070][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.02.19-09.44.07:262][790]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-09.44.07:281][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/DEV-Testing" FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-09.44.07:342][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.19-09.44.08:006][790]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/DEV-TestingC03334044DFD3C93FEABCCB2E8004CA6.tmp' to '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap'
+[2020.02.19-09.44.08:040][790]LogFileHelpers: Saving map 'DEV-Testing' took 0.760
+[2020.02.19-09.44.08:040][790]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Landscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-09.44.08:040][790]LightingResults: New page: Lighting Build
+[2020.02.19-09.44.08:042][790]LoadErrors: New page: Loading map: Landscape.umap
+[2020.02.19-09.44.08:046][790]LogWorld: UWorld::CleanupWorld for DEV-Testing, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.44.08:046][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.44.08:047][790]MapCheck: New page: Map Check
+[2020.02.19-09.44.08:047][790]LightingResults: New page: Lighting Build
+[2020.02.19-09.44.08:100][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.19-09.44.09:734][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-09.44.09:780][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.19-09.44.09:810][790]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-09.44.09:810][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.02.19-09.44.09:810][790]LogFileHelpers: Loading map 'Landscape' took 1.770
+[2020.02.19-09.44.09:861][790]AssetCheck: New page: Asset Save: DEV-Testing
+[2020.02.19-09.44.09:861][790]LogContentValidation: Display: Validating World /Game/MyAssets/DEV-Testing.DEV-Testing
+[2020.02.19-09.44.10:001][790]LogAIModule: Creating AISystem for world DEV-Testing
+[2020.02.19-09.44.11:753][820]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-09.44.11:781][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-09.44.11:781][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-09.44.11:781][820]PIE: New page: PIE session: Landscape (Feb 19, 2020, 11:44:11 AM)
+[2020.02.19-09.44.11:782][820]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-09.44.11:945][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.162712s)
+[2020.02.19-09.44.11:946][820]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-09.44.11:947][820]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2020.02.19-09.44.11:947][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Landscape.Landscape to /Game/Terrain/UEDPIE_0_Landscape.Landscape (0.164696s)
+[2020.02.19-09.44.11:991][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-09.44.11:995][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-09.44.11:995][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-09.44.11:996][820]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-09.44.11:996][820]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: Channel Order:
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-09.44.12:005][820]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-09.44.12:022][820]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-09.44.12:023][820]LogInit: FAudioDevice initialized.
+[2020.02.19-09.44.12:096][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-09.44.12:096][820]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-09.44.12:115][820]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-10.44.12
+[2020.02.19-09.44.12:116][820]LogWorld: Bringing up level for play took: 0.017812
+[2020.02.19-09.44.12:116][820]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.19-09.44.12:122][820]PIE: Play in editor start time for /Game/Terrain/UEDPIE_0_Landscape 0.786
+[2020.02.19-09.44.12:122][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-09.44.15:771][875]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.19-09.44.22:079][970]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-09.44.22:133][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-09.44.22:133][970]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-09.44.22:135][970]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-09.44.22:155][970]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-09.44.22:156][970]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.44.22:159][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.44.22:190][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-09.44.22:190][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-09.44.22:199][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.44.22:240][970]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-09.44.22:260][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.02.19-09.44.22:283][971]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.19-09.45.03:186][939]LogEditorTransaction: Undo Delete current selection
+[2020.02.19-09.45.12:672][292]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-09.45.12:678][292]LogBlueprint: Error: [Compiler MenuManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.19-09.45.12:985][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.02.19-09.48.09:391][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.02.19-09.48.10:724][468]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.19-09.48.10:844][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.02.19-09.48.47:294][888]LogEditorTransaction: Undo Break Pin Link
+[2020.02.19-09.48.50:134][957]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-09.48.50:452][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.02.19-09.48.51:565][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-09.48.51:603][975]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager90416EF54991A3A0699E86B5F7FF3F8C.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-09.48.51:619][975]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-09.48.51:619][975]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-09.49.06:551][392]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.49.06:552][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.49.10:342][450]LogSlate: Window 'widget_MenuPause' being destroyed
+[2020.02.19-09.49.10:366][450]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.49.10:367][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.49.10:376][450]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.49.10:377][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.49.17:451][567]Cmd: DELETE
+[2020.02.19-09.49.17:451][567]Cmd: ACTOR DELETE
+[2020.02.19-09.49.17:479][567]LogEditorActor: Deleted Actor: MenuManager_C
+[2020.02.19-09.49.17:591][567]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.19-09.49.17:593][567]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2020.02.19-09.49.29:455][749]LogAIModule: Creating AISystem for world Terrain
+[2020.02.19-09.49.29:472][749]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/Terrain.Terrain
+[2020.02.19-09.49.29:525][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.19-09.49.31:020][749]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-09.49.31:035][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/DEV-Testing" FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-09.49.31:133][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.19-09.49.31:786][749]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/DEV-Testing480D284A4F248CC55E9B51BFD05EF4C3.tmp' to '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap'
+[2020.02.19-09.49.31:813][749]LogFileHelpers: Saving map 'DEV-Testing' took 0.779
+[2020.02.19-09.49.31:813][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/Landscape" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-09.49.31:847][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.19-09.49.32:540][749]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/Landscape9B86FD024146AD9692D5F18A158C31E4.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/Landscape.umap'
+[2020.02.19-09.49.32:573][749]LogFileHelpers: Saving map 'Landscape' took 0.760
+[2020.02.19-09.49.32:575][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-09.49.32:585][749]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuB2E936B24666321C3DDE15B2A834928D.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-09.49.32:588][749]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-09.49.32:588][749]LightingResults: New page: Lighting Build
+[2020.02.19-09.49.32:589][749]LoadErrors: New page: Loading map: Terrain.umap
+[2020.02.19-09.49.32:592][749]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.49.32:592][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.49.32:592][749]MapCheck: New page: Map Check
+[2020.02.19-09.49.32:592][749]LightingResults: New page: Lighting Build
+[2020.02.19-09.49.32:638][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.19-09.49.32:669][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.02.19-09.49.32:695][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.02.19-09.49.32:863][749]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-09.49.32:901][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.19-09.49.32:929][749]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-09.49.32:929][749]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.182ms to complete.
+[2020.02.19-09.49.32:929][749]LogFileHelpers: Loading map 'Terrain' took 0.342
+[2020.02.19-09.49.33:020][749]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.19-09.49.33:020][749]LogContentValidation: Display: Validating World /Game/MyAssets/DEV-Testing.DEV-Testing
+[2020.02.19-09.49.33:020][749]LogContentValidation: Display: Validating World /Game/Terrain/Landscape.Landscape
+[2020.02.19-09.49.33:165][749]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-09.49.33:180][749]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-09.49.44:842][ 50]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/Landscape.Landscape
+[2020.02.19-09.49.44:875][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.19-09.49.44:878][ 50]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Landscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-09.49.44:878][ 50]LightingResults: New page: Lighting Build
+[2020.02.19-09.49.44:879][ 50]LoadErrors: New page: Loading map: Landscape.umap
+[2020.02.19-09.49.44:881][ 50]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-09.49.44:881][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-09.49.44:881][ 50]MapCheck: New page: Map Check
+[2020.02.19-09.49.44:881][ 50]LightingResults: New page: Lighting Build
+[2020.02.19-09.49.44:917][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.19-09.49.44:949][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.19-09.49.44:976][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.19-09.49.45:375][ 50]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-09.49.45:411][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.19-09.49.45:438][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-09.49.45:438][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2020.02.19-09.49.45:438][ 50]LogFileHelpers: Loading map 'Landscape' took 0.561
+[2020.02.19-09.49.50:575][136]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-09.50.07:074][337]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Terrain/Widget_MenuPrincipal.Widget_MenuPrincipal
+[2020.02.19-09.51.14:714][790]LogEditorTransaction: Undo Resize Widget
+[2020.02.19-09.52.46:684][163]LogSlate: Took 0.015479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.19-09.53.23:508][488]LogEditorTransaction: Undo Remove Widget
+[2020.02.19-09.53.28:870][658]LogEditorTransaction: Undo Remove Widget
+[2020.02.19-09.56.36:790][198]LogEditorTransaction: Undo Edit Top
+[2020.02.19-09.58.39:056][ 12]LogEditorTransaction: Undo Edit Size Rule
+[2020.02.19-09.59.19:351][546]LogEditorTransaction: Undo Edit Size Rule
+[2020.02.19-09.59.26:085][675]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.02.19-09.59.26:558][685]Cmd: TRANSACTION UNDO
+[2020.02.19-09.59.26:558][685]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.02.19-09.59.46:206][992]LogEditorTransaction: Undo Set Vector Property
+[2020.02.19-10.01.34:879][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.01.34:909][677]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuF39C766140DA579FDA6F959CF3BA0322.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.01.34:930][677]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.01.34:930][677]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.02.59:149][500]LogEditorTransaction: Undo Set Vector Property
+[2020.02.19-10.05.37:264][166]LogEditorTransaction: Undo Edit Vertical Alignment
+[2020.02.19-10.05.38:740][210]Cmd: TRANSACTION UNDO
+[2020.02.19-10.05.38:740][210]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2020.02.19-10.07.30:217][975]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.19-10.07.36:738][ 71]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.07.36:786][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.19-10.07.37:834][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.07.37:862][ 85]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuA21619FD470D3E9AF545A7A884E89F6B.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.07.37:877][ 85]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.07.37:877][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.10.44:622][125]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.10.44:672][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.19-10.10.45:424][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.10.45:453][135]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu2B826F084C4625468516ADAE8A8C6DBD.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.10.45:468][135]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.10.45:468][135]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.10.46:658][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.10.46:690][153]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu56D7176F44A42FD37E224E82FBDD9CAC.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.10.46:705][153]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.10.46:705][153]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.12.11:580][287]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.19-10.12.11:653][287]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.19-10.13.06:330][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.13.06:359][509]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuEF78848341CCA6E6741EFEB244895B6A.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.13.06:377][509]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.13.06:377][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.13.23:360][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.14.50:594][999]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.14.50:981][999]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.02.19-10.15.26:698][577]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.15.27:056][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.02.19-10.16.50:411][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.19-10.16.50:412][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/Landscape' took 0.044
+[2020.02.19-10.16.50:413][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Terrain/MenuManager] ([1] browsable assets)...
+[2020.02.19-10.16.50:413][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Terrain/MenuManager]
+[2020.02.19-10.16.50:413][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/MenuManager_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.19-10.16.50:444][ 17]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager_Auto16147C933412389EA0D960CB14185D2E7.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/MenuManager_Auto1.uasset'
+[2020.02.19-10.16.50:446][ 17]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.02.19-10.17.54:474][195]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.19-10.17.59:405][278]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.19-10.18.05:281][431]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.19-10.23.22:384][857]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.23.22:391][857]LogBlueprint: Error: [Compiler MenuManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.19-10.23.22:391][857]LogBlueprint: Error: [Compiler MenuManager] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2020.02.19-10.23.22:758][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.02.19-10.23.23:345][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.23.23:399][866]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManagerAD3FEB5F474ECE67BF385D9A32FB4529.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.23.23:416][866]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.23.23:416][866]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.23.42:932][415]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.23.43:282][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.19-10.23.44:512][434]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.23.44:858][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.19-10.25.59:307][566]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.25.59:664][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.02.19-10.27.40:527][866]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.27.40:886][866]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.02.19-10.27.41:791][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.27.41:830][879]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager81DEC4CB4EFDFF94B123968564F45D9D.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.27.41:846][879]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.27.41:846][879]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.27.42:350][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.27.42:381][886]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManagerFF2B5EFF4942AAFC7F096283308DD412.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.27.42:393][886]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.27.42:393][886]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.27.45:142][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.27.45:180][928]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager627D97664F1B024CBDF1C2A91C51A3B6.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.27.45:195][928]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.27.45:195][928]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.29.24:945][575]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.02.19-10.29.25:053][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.02.19-10.29.25:054][575]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/Landscape' took 0.046
+[2020.02.19-10.29.25:054][575]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Terrain/MenuManager] ([1] browsable assets)...
+[2020.02.19-10.29.25:054][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Terrain/MenuManager]
+[2020.02.19-10.29.25:054][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/MenuManager_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.02.19-10.29.25:092][575]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager_Auto2EA340F3B4EC3CB3F8053028B203AFFD6.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/MenuManager_Auto2.uasset'
+[2020.02.19-10.29.25:093][575]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.02.19-10.30.03:164][133]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.30.03:527][133]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.02.19-10.30.14:180][185]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.30.14:555][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.02.19-10.30.14:929][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.30.14:964][190]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManager5C1678EF4732BEAD983954955391D9BB.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.30.14:982][190]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.30.14:982][190]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.35.51:046][236]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.35.51:053][236]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not a MenuManager_C, therefore ' Target ' must have a connection.
+[2020.02.19-10.35.51:120][236]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.02.19-10.36.02:011][556]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.36.02:092][556]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.02.19-10.38.05:935][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.38.05:976][ 94]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuB673945A40C5864258CF55B09BAECB9F.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.38.05:994][ 94]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.38.05:994][ 94]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.39.25:650][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.02.19-10.39.25:653][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/Landscape' took 0.048
+[2020.02.19-10.41.27:197][ 59]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.41.27:580][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.02.19-10.41.33:850][148]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.41.34:215][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.02.19-10.41.34:231][148]BlueprintLog: New page: Compile MenuManager
+[2020.02.19-10.41.34:581][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.19-10.41.34:943][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MenuManager" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset" SILENT=true
+[2020.02.19-10.41.34:986][153]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/MenuManagerC92E50B0462D7DA9C9F3219AC7657CE6.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/MenuManager.uasset'
+[2020.02.19-10.41.35:002][153]AssetCheck: New page: Asset Save: MenuManager
+[2020.02.19-10.41.35:002][153]LogContentValidation: Display: Validating Blueprint /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-10.42.14:706][629]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.42.14:783][629]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.02.19-10.42.15:534][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.42.15:562][639]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuE8D668094D88C3A437C93D9BEAEACDB9.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.42.15:580][639]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.42.15:580][639]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.43.29:371][987]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.02.19-10.43.31:543][987]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-10.43.34:310][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.02.19-10.43.36:627][ 27]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-10.43.36:715][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/DEV-Testing" FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-10.43.36:806][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.02.19-10.43.37:482][ 27]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/DEV-TestingEE79A4B14E2F408C7FCC07A2B1207508.tmp' to '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap'
+[2020.02.19-10.43.37:510][ 27]LogFileHelpers: Saving map 'DEV-Testing' took 0.796
+[2020.02.19-10.43.37:557][ 27]AssetCheck: New page: Asset Save: DEV-Testing
+[2020.02.19-10.43.37:558][ 27]LogContentValidation: Display: Validating World /Game/MyAssets/DEV-Testing.DEV-Testing
+[2020.02.19-10.44.09:506][479]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.02.19-10.44.12:678][529]LogSlate: Window 'Asset Report' being destroyed
+[2020.02.19-10.44.29:563][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyAssets/Blueprints/DeadZone.DeadZone
+[2020.02.19-10.44.36:367][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-10.45.11:115][758]LogProperty: Warning: Illegal TEXT reference to a private object in external package (EdGraph /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter:ChangeLevel) from referencer (K2Node_MacroInstance /Game/Terrain/UI/PauseMenu.PauseMenu:EventGraph.K2Node_MacroInstance_1).  Import failed...
+[2020.02.19-10.45.11:115][758]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"ChangeLevel"',GraphBlueprint=Blueprint'"/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter"',GraphGuid=57E4F8664667788AF93F109B065A9960)'
+[2020.02.19-10.47.06:089][381]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.47.06:156][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.19-10.47.07:243][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.47.07:280][396]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuFA5D54E24570362CABEF8BA7C4B1B3D6.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.47.07:296][396]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.47.07:296][396]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.47.31:908][691]LogSlate: Took 0.007299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.19-10.47.59:079][134]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.47.59:157][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.19-10.47.59:900][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.47.59:931][144]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu9843A058414942C684AFB088DD3B38B8.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.47.59:950][144]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.47.59:950][144]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.48.48:790][886]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.48.48:871][886]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.02.19-10.48.49:524][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.48.49:557][895]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu1AB20F614BB5518097D195A7F12D8A2C.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.48.49:575][895]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.48.49:575][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.49.02:875][291]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.19-10.49.05:655][325]LogAIModule: Creating AISystem for world Test2
+[2020.02.19-10.49.05:659][325]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/Test2.Test2
+[2020.02.19-10.49.05:710][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.02.19-10.49.07:628][325]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-10.49.07:643][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/DEV-Testing" FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-10.49.07:751][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.19-10.49.08:449][325]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/DEV-TestingAC0EF6E140324659B8416799958B596B.tmp' to '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap'
+[2020.02.19-10.49.08:477][325]LogFileHelpers: Saving map 'DEV-Testing' took 0.836
+[2020.02.19-10.49.08:478][325]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Test2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-10.49.08:478][325]LightingResults: New page: Lighting Build
+[2020.02.19-10.49.08:484][325]LoadErrors: New page: Loading map: Test2.umap
+[2020.02.19-10.49.08:489][325]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-10.49.08:489][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.49.08:490][325]MapCheck: New page: Map Check
+[2020.02.19-10.49.08:490][325]LightingResults: New page: Lighting Build
+[2020.02.19-10.49.08:558][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.19-10.49.08:635][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.19-10.49.08:679][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.19-10.49.09:364][325]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-10.49.09:416][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.19-10.49.09:446][325]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-10.49.09:446][325]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2020.02.19-10.49.09:446][325]LogFileHelpers: Loading map 'Test2' took 0.969
+[2020.02.19-10.49.09:504][325]AssetCheck: New page: Asset Save: DEV-Testing
+[2020.02.19-10.49.09:504][325]LogContentValidation: Display: Validating World /Game/MyAssets/DEV-Testing.DEV-Testing
+[2020.02.19-10.49.12:787][449]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-10.49.12:831][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Test2.Test2:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Test2.Test2:PersistentLevel.Test2' with GeneratedClass '/Game/Terrain/Test2.Test2_C' with ClassGeneratedBy '/Game/Terrain/Test2.Test2:PersistentLevel.Test2'
+[2020.02.19-10.49.12:831][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-10.49.12:831][449]PIE: New page: PIE session: Test2 (Feb 19, 2020, 12:49:12 PM)
+[2020.02.19-10.49.12:832][449]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Test2
+[2020.02.19-10.49.12:901][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069837s)
+[2020.02.19-10.49.12:902][449]LogAIModule: Creating AISystem for world Test2
+[2020.02.19-10.49.12:902][449]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.02.19-10.49.12:902][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Test2.Test2 to /Game/Terrain/UEDPIE_0_Test2.Test2 (0.071024s)
+[2020.02.19-10.49.12:951][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.19-10.49.12:951][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-10.49.12:952][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-10.49.12:952][449]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-10.49.12:952][449]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: Channel Order:
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-10.49.12:961][449]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-10.49.12:982][449]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-10.49.12:983][449]LogInit: FAudioDevice initialized.
+[2020.02.19-10.49.13:037][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-10.49.13:038][449]LogLoad: Game class is 'GameModeBase'
+[2020.02.19-10.49.13:040][449]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Test2.Test2 up for play (max tick rate 60) at 2020.02.19-11.49.13
+[2020.02.19-10.49.13:041][449]LogWorld: Bringing up level for play took: 0.002347
+[2020.02.19-10.49.13:041][449]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.02.19-10.49.13:049][449]PIE: Play in editor start time for /Game/Terrain/UEDPIE_0_Test2 -0.287
+[2020.02.19-10.49.13:049][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/Test2.Test2:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Test2.Test2:PersistentLevel.Test2' with GeneratedClass '/Game/Terrain/Test2.Test2_C' with ClassGeneratedBy '/Game/Terrain/Test2.Test2:PersistentLevel.Test2'
+[2020.02.19-10.49.18:246][616]LogNet: Browse: /Game/Terrain/Landscape
+[2020.02.19-10.49.18:246][616]LogLoad: LoadMap: /Game/Terrain/Landscape
+[2020.02.19-10.49.18:246][616]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Test2
+[2020.02.19-10.49.18:247][616]LogWorld: UWorld::CleanupWorld for Test2, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-10.49.18:248][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.49.18:249][616]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.49.18:316][616]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.02.19-10.49.18:496][616]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-10.49.18:496][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-10.49.18:513][616]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-11.49.18
+[2020.02.19-10.49.18:514][616]LogWorld: Bringing up level for play took: 0.018189
+[2020.02.19-10.49.18:517][616]LogLoad: Took 0.271463 seconds to LoadMap(/Game/Terrain/Landscape)
+[2020.02.19-10.49.31:492][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.49.31:498][817]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-10.49.31:518][817]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-10.49.31:518][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/Test2.Test2:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Test2.Test2:PersistentLevel.Test2' with GeneratedClass '/Game/Terrain/Test2.Test2_C' with ClassGeneratedBy '/Game/Terrain/Test2.Test2:PersistentLevel.Test2'
+[2020.02.19-10.49.31:518][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-10.49.31:518][817]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-10.49.31:537][817]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-10.49.31:642][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.49.31:642][817]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-10.49.31:645][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.49.31:697][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-10.49.31:697][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/Test2.Test2:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Test2.Test2:PersistentLevel.Test2' with GeneratedClass '/Game/Terrain/Test2.Test2_C' with ClassGeneratedBy '/Game/Terrain/Test2.Test2:PersistentLevel.Test2'
+[2020.02.19-10.49.31:703][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.49.31:756][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.49.31:776][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.19-10.49.31:801][818]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.19-10.50.58:504][364]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.19-10.51.11:953][791]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.51.12:027][791]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.02.19-10.51.12:596][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.51.12:634][806]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuF34B82434D3B27253BAED4BF8831409F.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.51.12:653][806]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.51.12:653][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.53.09:759][ 48]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-10.53.09:837][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.19-10.53.10:353][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.53.10:413][ 60]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenuF0DDB071465400A718483793DB4BE1EB.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.53.10:432][ 60]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.53.10:432][ 60]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.53.44:551][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset" SILENT=true
+[2020.02.19-10.53.44:585][300]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu3799B0A04B85E207950A63B6E28756DA.tmp' to '../../../../../../Unreal Project/UE4Project/Content/Terrain/UI/PauseMenu.uasset'
+[2020.02.19-10.53.44:601][300]AssetCheck: New page: Asset Save: PauseMenu
+[2020.02.19-10.53.44:601][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-10.53.48:348][402]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-10.53.48:363][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/Landscape.Landscape
+[2020.02.19-10.53.48:418][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.02.19-10.53.50:386][402]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-10.53.50:455][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/DEV-Testing" FILE="../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-10.53.50:550][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.19-10.53.51:277][402]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/DEV-Testing3E4EB15A4C9F9C590E0422B57CEA2030.tmp' to '../../../../../../Unreal Project/UE4Project/Content/MyAssets/DEV-Testing.umap'
+[2020.02.19-10.53.51:314][402]LogFileHelpers: Saving map 'DEV-Testing' took 0.859
+[2020.02.19-10.53.51:316][402]Cmd: MAP LOAD FILE="../../../../../../Unreal Project/UE4Project/Content/Terrain/Landscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.19-10.53.51:316][402]LightingResults: New page: Lighting Build
+[2020.02.19-10.53.51:317][402]LoadErrors: New page: Loading map: Landscape.umap
+[2020.02.19-10.53.51:318][402]LogWorld: UWorld::CleanupWorld for Test2, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-10.53.51:318][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.53.51:318][402]MapCheck: New page: Map Check
+[2020.02.19-10.53.51:318][402]LightingResults: New page: Lighting Build
+[2020.02.19-10.53.51:375][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.19-10.53.51:420][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.02.19-10.53.51:463][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.19-10.53.52:060][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.19-10.53.52:120][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.19-10.53.52:149][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.19-10.53.52:150][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2020.02.19-10.53.52:150][402]LogFileHelpers: Loading map 'Landscape' took 0.836
+[2020.02.19-10.53.52:228][402]AssetCheck: New page: Asset Save: DEV-Testing
+[2020.02.19-10.53.52:228][402]LogContentValidation: Display: Validating World /Game/MyAssets/DEV-Testing.DEV-Testing
+[2020.02.19-10.53.57:282][491]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-10.53.57:324][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-10.53.57:324][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-10.53.57:324][491]PIE: New page: PIE session: Landscape (Feb 19, 2020, 12:53:57 PM)
+[2020.02.19-10.53.57:325][491]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-10.53.57:482][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157353s)
+[2020.02.19-10.53.57:483][491]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-10.53.57:484][491]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2020.02.19-10.53.57:484][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Landscape.Landscape to /Game/Terrain/UEDPIE_0_Landscape.Landscape (0.158974s)
+[2020.02.19-10.53.57:533][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-10.53.57:534][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-10.53.57:534][491]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-10.53.57:534][491]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: Channel Order:
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-10.53.57:543][491]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-10.53.57:561][491]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-10.53.57:563][491]LogInit: FAudioDevice initialized.
+[2020.02.19-10.53.57:624][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-10.53.57:625][491]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-10.53.57:640][491]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-11.53.57
+[2020.02.19-10.53.57:640][491]LogWorld: Bringing up level for play took: 0.014657
+[2020.02.19-10.53.57:641][491]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.19-10.53.57:650][491]PIE: Play in editor start time for /Game/Terrain/UEDPIE_0_Landscape 0.313
+[2020.02.19-10.53.57:650][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-10.54.04:357][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.54.04:368][590]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-10.54.04:388][590]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-10.54.04:388][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-10.54.04:389][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-10.54.04:389][590]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-10.54.04:411][590]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-10.54.04:502][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.54.04:502][590]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-10.54.04:506][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.54.04:559][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-10.54.04:559][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-10.54.04:569][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-10.54.04:617][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-10.54.04:635][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.02.19-10.54.04:658][591]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.19-10.58.16:593][ 59]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-10.58.17:028][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.02.19-10.58.38:570][509]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-10.58.38:983][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.02.19-10.58.39:883][521]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter2D16FD124005E870B1AABF9A82E3256B.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-10.58.39:911][521]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-10.58.39:912][521]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-10.59.03:658][243]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-10.59.04:247][254]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.19-11.00.00:945][104]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.00.00:985][104]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set PauseMenu
+[2020.02.19-11.00.00:985][104]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.00.00:985][104]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.00.00:985][104]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.00.00:988][104]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.00.00:988][104]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.00.00:988][104]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.00.00:988][104]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.00.01:363][104]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.02.19-11.00.02:191][115]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter485FD29F4495E46BA4127683BEB9B688.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.00.02:209][115]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.00.02:209][115]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.00.17:803][403]Cmd: TRANSACTION UNDO
+[2020.02.19-11.00.17:804][403]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.18:342][411]Cmd: TRANSACTION UNDO
+[2020.02.19-11.00.18:342][411]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.18:773][432]Cmd: TRANSACTION UNDO
+[2020.02.19-11.00.18:773][432]LogEditorTransaction: Undo Move Node
+[2020.02.19-11.00.19:385][441]Cmd: TRANSACTION UNDO
+[2020.02.19-11.00.19:385][441]LogEditorTransaction: Undo Move Node
+[2020.02.19-11.00.20:139][450]Cmd: TRANSACTION UNDO
+[2020.02.19-11.00.20:139][450]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.48:527][999]LogEditorTransaction: Undo Promote To Variable
+[2020.02.19-11.00.52:158][105]LogEditorTransaction: Undo Change Object Pin Value
+[2020.02.19-11.00.52:319][106]LogEditorTransaction: Undo Delete current selection
+[2020.02.19-11.00.52:463][107]LogEditorTransaction: Undo Move Node
+[2020.02.19-11.00.52:631][109]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.52:813][115]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.53:005][123]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.53:176][130]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.53:411][134]LogEditorTransaction: Undo Create Pin Link
+[2020.02.19-11.00.53:594][135]LogEditorTransaction: Undo Move Nodes
+[2020.02.19-11.00.53:802][138]LogEditorTransaction: Undo Paste clipboard contents
+[2020.02.19-11.01.01:239][251]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.01.01:691][251]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.02.19-11.03.55:702][587]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.02.19-11.03.55:705][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/Landscape" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/Landscape_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-11.03.56:419][587]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/Landscape_Auto311A7EAE743BF4F54038BAB8E4C27910B.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/Landscape_Auto3.umap'
+[2020.02.19-11.03.56:421][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/Landscape' took 0.777
+[2020.02.19-11.03.56:421][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.777
+[2020.02.19-11.03.56:422][587]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.02.19-11.03.56:450][587]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.02.19-11.03.56:450][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.02.19-11.03.56:558][587]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter_Auto35F5D50BF4A6CE46972B555AF54DB5841.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2020.02.19-11.03.56:560][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Terrain/UI/PauseMenu] ([1] browsable assets)...
+[2020.02.19-11.03.56:560][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Terrain/UI/PauseMenu]
+[2020.02.19-11.03.56:560][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/UI/PauseMenu_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.02.19-11.03.56:602][587]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu_Auto32C6CFD8B45547214F3F49980C9FDD74C.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/UI/PauseMenu_Auto3.uasset'
+[2020.02.19-11.03.56:603][587]LogFileHelpers: Auto-saving content packages took 0.181
+[2020.02.19-11.05.26:955][873]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2020.02.19-11.05.42:428][873]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.19-11.05.56:628][873]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.05.56:628][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.05.56:691][873]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.05.56:691][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.05.56:696][873]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.05.56:696][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.05.56:741][873]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Terrain/MenuManager.MenuManager
+[2020.02.19-11.05.59:114][873]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.02.19-11.05.59:502][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.19-11.05.59:550][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.02.19-11.05.59:592][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.19-11.06.09:090][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.02.19-11.06.10:729][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.19-11.06.10:894][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.19-11.06.10:944][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.19-11.06.10:985][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.19-11.06.16:173][ 91]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Terrain/UI/PauseMenu.PauseMenu
+[2020.02.19-11.06.29:979][391]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.19-11.06.45:557][607]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.06.45:979][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.19-11.06.46:678][615]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter2E49FA824EAA2E29AB17E6B2DF4FF322.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.06.46:702][615]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.06.46:702][615]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.07.34:237][929]LogLinker: Failed to load '/Game/Terrain/MenuManager': Can't find file.
+[2020.02.19-11.07.34:237][929]LogLinker: Failed to load '/Game/Terrain/MenuManager': Can't find file.
+[2020.02.19-11.08.02:952][415]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.08.02:996][415]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set PauseMenu
+[2020.02.19-11.08.02:996][415]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.08.02:996][415]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.08.02:997][415]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "PauseMenu" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get PauseMenu
+[2020.02.19-11.08.02:999][415]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.08.02:999][415]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.08.02:999][415]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.08.02:999][415]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Pause Menu  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.02.19-11.08.03:382][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.02.19-11.10.43:411][  0]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.10.43:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.02.19-11.10.44:610][  9]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter4B04E687462ADDE1A7775A9513EFB1AC.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.10.44:627][  9]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.10.44:627][  9]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.11.11:425][984]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.11.11:832][984]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.02.19-11.11.12:577][994]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacterCA9A9DCB46659C5460E0CE839321E047.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.11.12:595][994]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.11.12:595][994]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.11.26:379][193]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.11.26:802][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.19-11.11.27:311][199]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter4675CC7B4FF428E22CB18FA0EC0035D2.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.11.27:328][199]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.11.27:328][199]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.12.58:624][ 54]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.12.59:055][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.02.19-11.12.59:713][ 61]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter3696FECB4CBD2FAC9ADE2A9F105BB33A.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.12.59:732][ 61]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.12.59:733][ 61]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.13.11:842][283]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.19-11.13.11:912][283]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.19-11.14.06:669][247]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2020.02.19-11.14.06:673][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/Landscape" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/Landscape_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-11.14.07:404][247]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/Landscape_Auto427F88FE14014656472BB0BB819F74BB1.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/Landscape_Auto4.umap'
+[2020.02.19-11.14.07:407][247]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/Landscape' took 0.798
+[2020.02.19-11.14.07:408][247]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.798
+[2020.02.19-11.14.07:408][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.02.19-11.14.07:486][247]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.02.19-11.14.07:486][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.02.19-11.14.07:582][247]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter_Auto4F83AC26A45215729173FA9AA0049DF37.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2020.02.19-11.14.07:583][247]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Terrain/UI/PauseMenu] ([1] browsable assets)...
+[2020.02.19-11.14.07:583][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Terrain/UI/PauseMenu]
+[2020.02.19-11.14.07:583][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/UI/PauseMenu" FILE="../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/UI/PauseMenu_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.02.19-11.14.07:628][247]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/PauseMenu_Auto474564B9743F8B81E88E398A2CA666903.tmp' to '../../../../../../Unreal Project/UE4Project/Saved/Autosaves/Game/Terrain/UI/PauseMenu_Auto4.uasset'
+[2020.02.19-11.14.07:630][247]LogFileHelpers: Auto-saving content packages took 0.223
+[2020.02.19-11.14.08:682][264]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.14.09:094][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.02.19-11.14.09:812][272]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter8EA723BD4BBC8D54E265DF87E135F6F7.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.14.09:835][272]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.14.09:835][272]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.14.31:449][624]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.19-11.14.31:905][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.02.19-11.14.41:079][765]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-11.14.41:119][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.14.41:119][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-11.14.41:119][765]PIE: New page: PIE session: Landscape (Feb 19, 2020, 1:14:41 PM)
+[2020.02.19-11.14.41:120][765]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.14.41:270][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150714s)
+[2020.02.19-11.14.41:272][765]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-11.14.41:272][765]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2020.02.19-11.14.41:272][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Landscape.Landscape to /Game/Terrain/UEDPIE_0_Landscape.Landscape (0.152354s)
+[2020.02.19-11.14.41:321][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-11.14.41:322][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-11.14.41:322][765]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-11.14.41:322][765]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: Channel Order:
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-11.14.41:334][765]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-11.14.41:353][765]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-11.14.41:354][765]LogInit: FAudioDevice initialized.
+[2020.02.19-11.14.41:442][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-11.14.41:442][765]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-11.14.41:461][765]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-12.14.41
+[2020.02.19-11.14.41:462][765]LogWorld: Bringing up level for play took: 0.017481
+[2020.02.19-11.14.41:462][765]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.19-11.14.41:475][765]PIE: Play in editor start time for /Game/Terrain/UEDPIE_0_Landscape 0.139
+[2020.02.19-11.14.41:476][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.14.43:860][801]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.19-11.14.46:192][836]LogScript: Warning: Accessed None trying to read property Unpause - target
+	PauseMenu_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_5.PauseMenu_C_0
+	Function /Game/Terrain/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu:0062
+[2020.02.19-11.14.46:193][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Unpause - target". Blueprint:  PauseMenu Function:  Execute Ubergraph Pause Menu Graph:  EventGraph Node:  Unpause Game
+[2020.02.19-11.14.47:189][850]LogScript: Warning: Accessed None trying to read property Unpause - target
+	PauseMenu_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_5.PauseMenu_C_0
+	Function /Game/Terrain/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu:0062
+[2020.02.19-11.14.47:189][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Unpause - target". Blueprint:  PauseMenu Function:  Execute Ubergraph Pause Menu Graph:  EventGraph Node:  Unpause Game
+[2020.02.19-11.14.48:754][872]LogScript: Warning: Accessed None trying to read property ResetLevel-Target
+	PauseMenu_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_5.PauseMenu_C_0
+	Function /Game/Terrain/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu:0037
+[2020.02.19-11.14.48:754][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ResetLevel-Target". Blueprint:  PauseMenu Function:  Execute Ubergraph Pause Menu Graph:  EventGraph Node:  Reset Level
+[2020.02.19-11.14.49:675][885]LogNet: Browse: /Game/Terrain/Test2
+[2020.02.19-11.14.49:675][885]LogLoad: LoadMap: /Game/Terrain/Test2
+[2020.02.19-11.14.49:675][885]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.14.49:676][885]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.14.49:679][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.14.49:696][885]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-11.14.49:717][885]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-11.14.49:826][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.02.19-11.14.49:955][885]LogAIModule: Creating AISystem for world Test2
+[2020.02.19-11.14.49:955][885]LogLoad: Game class is 'GameModeBase'
+[2020.02.19-11.14.49:959][885]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Test2.Test2 up for play (max tick rate 60) at 2020.02.19-12.14.49
+[2020.02.19-11.14.49:959][885]LogWorld: Bringing up level for play took: 0.003791
+[2020.02.19-11.14.49:960][885]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.19-11.14.49:961][885]LogLoad: Took 0.286610 seconds to LoadMap(/Game/Terrain/Test2)
+[2020.02.19-11.14.55:883][ 77]LogNet: Browse: /Game/Terrain/Landscape
+[2020.02.19-11.14.55:883][ 77]LogLoad: LoadMap: /Game/Terrain/Landscape
+[2020.02.19-11.14.55:883][ 77]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Test2
+[2020.02.19-11.14.55:883][ 77]LogWorld: UWorld::CleanupWorld for Test2, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.14.55:884][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.14.55:884][ 77]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.14.55:954][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.02.19-11.14.55:955][ 77]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.14.56:101][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145315s)
+[2020.02.19-11.14.56:102][ 77]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-11.14.56:102][ 77]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2020.02.19-11.14.56:102][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Landscape.Landscape to /Game/Terrain/UEDPIE_0_Landscape.Landscape (0.146491s)
+[2020.02.19-11.14.56:102][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-11.14.56:112][ 77]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-12.14.56
+[2020.02.19-11.14.56:113][ 77]LogWorld: Bringing up level for play took: 0.009761
+[2020.02.19-11.14.56:116][ 77]LogLoad: Took 0.232377 seconds to LoadMap(/Game/Terrain/UEDPIE_0_Landscape)
+[2020.02.19-11.15.02:692][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.02:705][179]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-11.15.02:726][179]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-11.15.02:726][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.02:727][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-11.15.02:727][179]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.15.02:744][179]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-11.15.02:832][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.02:833][179]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.15.02:836][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.15.02:889][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-11.15.02:889][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.02:896][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.15.02:944][179]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.02:962][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.19-11.15.03:138][180]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.19-11.15.20:486][473]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.15.20:501][473]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.15.22:180][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-11.15.22:219][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.22:219][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-11.15.22:219][501]PIE: New page: PIE session: Landscape (Feb 19, 2020, 1:15:22 PM)
+[2020.02.19-11.15.22:219][501]LogPlayLevel: Creating play world package: /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.15.22:373][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153390s)
+[2020.02.19-11.15.22:375][501]LogAIModule: Creating AISystem for world Landscape
+[2020.02.19-11.15.22:375][501]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2020.02.19-11.15.22:375][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/Landscape.Landscape to /Game/Terrain/UEDPIE_0_Landscape.Landscape (0.155127s)
+[2020.02.19-11.15.22:419][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.19-11.15.22:420][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.19-11.15.22:420][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.19-11.15.22:421][501]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.19-11.15.22:421][501]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.19-11.15.22:429][501]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.19-11.15.22:429][501]LogAudioMixer: Display: Name: Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-11.15.22:429][501]LogAudioMixer: Display: Is Default: Yes
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: Channel Order:
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.19-11.15.22:430][501]LogAudioMixer: Display: 1: FrontRight
+[2020.02.19-11.15.22:453][501]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2020.02.19-11.15.22:457][501]LogInit: FAudioDevice initialized.
+[2020.02.19-11.15.22:531][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-11.15.22:532][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.19-11.15.22:550][501]LogWorld: Bringing World /Game/Terrain/UEDPIE_0_Landscape.Landscape up for play (max tick rate 60) at 2020.02.19-12.15.22
+[2020.02.19-11.15.22:551][501]LogWorld: Bringing up level for play took: 0.017934
+[2020.02.19-11.15.22:551][501]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.02.19-11.15.22:560][501]PIE: Play in editor start time for /Game/Terrain/UEDPIE_0_Landscape 1.223
+[2020.02.19-11.15.22:560][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.28:022][583]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.02.19-11.15.29:668][607]LogScript: Warning: Accessed None trying to read property ResetLevel-Target
+	PauseMenu_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_6.PauseMenu_C_0
+	Function /Game/Terrain/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu:0037
+[2020.02.19-11.15.29:668][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ResetLevel-Target". Blueprint:  PauseMenu Function:  Execute Ubergraph Pause Menu Graph:  EventGraph Node:  Reset Level
+[2020.02.19-11.15.32:897][654]LogScript: Warning: Accessed None trying to read property Unpause - target
+	PauseMenu_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_6.PauseMenu_C_0
+	Function /Game/Terrain/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu:0062
+[2020.02.19-11.15.32:897][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Unpause - target". Blueprint:  PauseMenu Function:  Execute Ubergraph Pause Menu Graph:  EventGraph Node:  Unpause Game
+[2020.02.19-11.15.33:522][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.33:537][663]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.19-11.15.33:556][663]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.19-11.15.33:556][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.33:557][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.19-11.15.33:557][663]LogWorld: BeginTearingDown for /Game/Terrain/UEDPIE_0_Landscape
+[2020.02.19-11.15.33:581][663]LogSlate: Window 'UE4Project Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.19-11.15.33:658][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.33:659][663]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2020.02.19-11.15.33:661][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.15.33:717][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.19-11.15.33:717][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.15.33:724][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.19-11.15.33:772][663]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.19-11.15.33:789][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.19-11.15.33:967][664]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.19-11.15.36:374][723]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.15.36:451][723]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.16.31:214][269]BlueprintLog: New page: Compile PauseMenu
+[2020.02.19-11.16.31:224][269]LogBlueprint: Error: [Compiler PauseMenu] Could not find a function named "UnpauseGame" in 'PauseMenu'.
+Make sure 'PauseMenu' has been compiled for  Unpause Game
+[2020.02.19-11.16.31:224][269]LogBlueprint: Error: [Compiler PauseMenu] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.02.19-11.16.31:284][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.02.19-11.16.47:377][595]LogSavePackage: Moving '../../../../../../Unreal Project/UE4Project/Saved/ThirdPersonCharacter3775E52C4F88DAF8519C31974B769545.tmp' to '../../../../../../Unreal Project/UE4Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.19-11.16.47:395][595]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.19-11.16.47:395][595]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.19-11.16.59:150][662]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.19-11.16.59:181][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/Landscape.Landscape:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape' with GeneratedClass '/Game/Terrain/Landscape.Landscape_C' with ClassGeneratedBy '/Game/Terrain/Landscape.Landscape:PersistentLevel.Landscape'
+[2020.02.19-11.16.59:181][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.19-11.16.59:181][662]BlueprintLog: Warning: Blueprint failed to compile:  PauseMenu
+[2020.02.19-11.16.59:182][662]LogCustomDialog: Dialog displayed:
+[2020.02.19-11.17.00:901][662]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.02.19-11.17.02:216][684]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.17.02:287][684]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.17.39:812][998]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.19-11.17.39:812][998]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
