@@ -1,0 +1,266 @@
+Begin Object Class=/Script/Engine.Material Name="DisolutionMat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionIf Name="MaterialExpressionIf_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="NoiseParam"
+      ExpressionGUID=1F07B10D432CC0E744A461B610E4EF2D
+      Texture=Texture2D'"/Game/StarterContent/ClaseExamples/unnamed.unnamed"'
+      MaterialExpressionEditorX=-798
+      MaterialExpressionEditorY=194
+      MaterialExpressionGuid=3913004F4D689EB74B46DABC306154D5
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_4"
+      Texture=Texture2D'"/Game/StarterContent/ClaseExamples/TexturesCom_Rock_Lava_1K_normal.TexturesCom_Rock_Lava_1K_normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-17
+      MaterialExpressionEditorY=117
+      MaterialExpressionGuid=2B18BFF7472100B6C1F81A80AC6C407E
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/StarterContent/ClaseExamples/TexturesCom_Rock_Lava_1K_emissive.TexturesCom_Rock_Lava_1K_emissive"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=CD218D1F4D4EA166FCE0F2ABDA566F16
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      ParameterName="AllowBurn"
+      ExpressionGUID=95398A134A7649DF06E0C484548DE049
+      MaterialExpressionEditorX=676
+      MaterialExpressionEditorY=914
+      MaterialExpressionGuid=E8BA25464F677AA5DFFA889816F40828
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=5.000000
+      ParameterName="Emision Streng"
+      ExpressionGUID=10C4F6424FFFBDB5DF2DDFBF285D21DF
+      MaterialExpressionEditorX=468
+      MaterialExpressionEditorY=914
+      MaterialExpressionGuid=A51144A748EAEF741B8C76B3A91DAAC4
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=0.030000
+      SliderMax=0.030000
+      ParameterName="BorderColor"
+      ExpressionGUID=B80E75554BE58BDA06C9D59E9777B412
+      MaterialExpressionEditorX=-382
+      MaterialExpressionEditorY=1098
+      MaterialExpressionGuid=2DA2081D4F70267A3C4C4FB9F1FDE59A
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      SliderMax=1.000000
+      ParameterName="DisolutionValue"
+      ExpressionGUID=01011844493D69B4B465519802BE709A
+      MaterialExpressionEditorX=-782
+      MaterialExpressionEditorY=466
+      MaterialExpressionGuid=345208F44B02627FA78A66B5C7CCAD1E
+      Material=Material'"DisolutionMat"'
+      Desc="DisolutionValue"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_0"
+      Input=(Expression=MaterialExpressionTextureSampleParameter2D'"DisolutionMat:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-414
+      MaterialExpressionEditorY=274
+      MaterialExpressionGuid=C1A5E0434A02A1565E93DBBB42968A19
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionMultiply'"DisolutionMat:MaterialExpressionMultiply_1"')
+      B=(Expression=MaterialExpressionScalarParameter'"DisolutionMat:MaterialExpressionScalarParameter_3"')
+      MaterialExpressionEditorX=676
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=B1F7A5ED4E64A89EBE9A43AB740E499D
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionMultiply'"DisolutionMat:MaterialExpressionMultiply_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"DisolutionMat:MaterialExpressionScalarParameter_2"')
+      MaterialExpressionEditorX=484
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=01DC01DD453FD74D9811D58737EB2097
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionConstant3Vector'"DisolutionMat:MaterialExpressionConstant3Vector_1"')
+      B=(Expression=MaterialExpressionIf'"DisolutionMat:MaterialExpressionIf_1"')
+      MaterialExpressionEditorX=212
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=48BEECCD48C61D2050AC7D8D47A8B833
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionIf_1"
+      A=(Expression=MaterialExpressionReroute'"DisolutionMat:MaterialExpressionReroute_0"')
+      B=(Expression=MaterialExpressionAdd'"DisolutionMat:MaterialExpressionAdd_0"')
+      AGreaterThanB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_5"')
+      AEqualsB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_5"')
+      ALessThanB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_4"')
+      MaterialExpressionEditorX=4
+      MaterialExpressionEditorY=1010
+      MaterialExpressionGuid=04B70E374B99EA6270FB9D9F8F1CF080
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionIf_0"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"DisolutionMat:MaterialExpressionTextureSampleParameter2D_0"',OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression=MaterialExpressionScalarParameter'"DisolutionMat:MaterialExpressionScalarParameter_0"')
+      AGreaterThanB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_1"')
+      AEqualsB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_1"')
+      ALessThanB=(Expression=MaterialExpressionConstant'"DisolutionMat:MaterialExpressionConstant_2"')
+      MaterialExpressionEditorX=-494
+      MaterialExpressionEditorY=418
+      MaterialExpressionGuid=15FB301B4F91F64A9B1867899CACDFB6
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_1"
+      Constant=(R=1.000000,G=0.823039,B=0.000000,A=0.000000)
+      MaterialExpressionEditorX=-12
+      MaterialExpressionEditorY=818
+      MaterialExpressionGuid=3643FED24B7FD025CFB2C1AF99422167
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_5"
+      MaterialExpressionEditorX=-172
+      MaterialExpressionEditorY=1170
+      MaterialExpressionGuid=6F1BA5B843E4EAF7E8274A83E2BAD2E6
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_4"
+      R=1.000000
+      MaterialExpressionEditorX=-156
+      MaterialExpressionEditorY=1250
+      MaterialExpressionGuid=6F1BA5B843E4EAF7E8274A83E2BAD2E6
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-686
+      MaterialExpressionEditorY=642
+      MaterialExpressionGuid=6F1BA5B843E4EAF7E8274A83E2BAD2E6
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=1.000000
+      MaterialExpressionEditorX=-718
+      MaterialExpressionEditorY=562
+      MaterialExpressionGuid=6F1BA5B843E4EAF7E8274A83E2BAD2E6
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=526
+      SizeY=604
+      Text="Opacity"
+      MaterialExpressionEditorX=-848
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=FBDAA1E343F787EFFC88B8B810A3FCB5
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1266
+      SizeY=585
+      Text="Emisive Burn"
+      MaterialExpressionEditorX=-432
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=B3783C6F4104A731E4044EA2BE136FEE
+      Material=Material'"DisolutionMat"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_0"
+      A=(Expression=MaterialExpressionScalarParameter'"DisolutionMat:MaterialExpressionScalarParameter_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"DisolutionMat:MaterialExpressionScalarParameter_1"')
+      MaterialExpressionEditorX=-188
+      MaterialExpressionEditorY=1042
+      MaterialExpressionGuid=BD96DF46474034E03D478D9D167DFA98
+      Material=Material'"DisolutionMat"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',OutputIndex=5,Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_4"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EmissiveColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"')
+   OpacityMask=(Expression=MaterialExpressionIf'"MaterialExpressionIf_0"')
+   BlendMode=BLEND_Masked
+   EditorX=928
+   EditorY=224
+   Expressions(0)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(1)=MaterialExpressionIf'"MaterialExpressionIf_0"'
+   Expressions(2)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_0"'
+   Expressions(3)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(4)=MaterialExpressionConstant'"MaterialExpressionConstant_2"'
+   Expressions(5)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(6)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_1"'
+   Expressions(7)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(8)=MaterialExpressionAdd'"MaterialExpressionAdd_0"'
+   Expressions(9)=MaterialExpressionIf'"MaterialExpressionIf_1"'
+   Expressions(10)=MaterialExpressionReroute'"MaterialExpressionReroute_0"'
+   Expressions(11)=MaterialExpressionConstant'"MaterialExpressionConstant_4"'
+   Expressions(12)=MaterialExpressionConstant'"MaterialExpressionConstant_5"'
+   Expressions(13)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(14)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(15)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"'
+   Expressions(16)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_3"'
+   Expressions(17)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(18)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_4"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_0"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_1"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   ParameterGroupData(3)=(GroupName="None")
+   ParameterGroupData(4)=(GroupName="None")
+   StateId=997A751540B453D2A6A38BA4D69D511F
+   ReferencedTextureGuids(0)=0E6CA87140D06AB9238122AE3812D8E9
+   ReferencedTextureGuids(1)=BC55AD6645D3FCB379A00DB0CC9995C1
+   ReferencedTextureGuids(2)=96ADA4F4436CDA339283E4B4BBF97BD6
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="TexturesCom_Rock_Lava_1K_emissive",TextureReference=/Game/StarterContent/ClaseExamples/TexturesCom_Rock_Lava_1K_emissive.TexturesCom_Rock_Lava_1K_emissive)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="TexturesCom_Rock_Lava_1K_normal",TextureReference=/Game/StarterContent/ClaseExamples/TexturesCom_Rock_Lava_1K_normal.TexturesCom_Rock_Lava_1K_normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="unnamed",TextureReference=/Game/StarterContent/ClaseExamples/unnamed.unnamed)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   ParameterOverviewExpansion=(("-12None", True))
+   LightingGuid=25A8480C48BD722248F77484750FFEF7
+End Object
